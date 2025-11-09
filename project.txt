@@ -1,0 +1,24 @@
+survivor-game/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── Game.jsx
+│   │   ├── Canvas.jsx
+│   │   ├── LevelUpModal.jsx
+│   │   └── UI.jsx
+│   ├── game/
+│   │   ├── GameManager.js
+│   │   ├── Player.js
+│   │   ├── Enemy.js
+│   │   ├── Weapon.js
+│   │   ├── Projectile.js
+│   │   └── ExpOrb.js
+│   ├── utils/
+│   │   ├── constants.js
+│   │   └── collision.js
+│   ├── App.jsx
+│   ├── index.js
+│   └── index.css
+├── package.json
+└── README.md
